@@ -8,7 +8,7 @@
                     <div class="card auth-card shadow-sm bg-dark border-secondary">
                         <div class="card-body p-4 p-md-5">
                             <div class="text-center mb-4">
-                                <h2 class="todo fw-bold mb-4 text-light">To-Do-List</h2>
+                                <h2 class="todo fw-bold mb-4 text-light">AV ToDo-List</h2>
                                 <p class="text-secondary">Buat akun dan mulai membuat tugas baru</p>
                             </div>
 
